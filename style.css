@@ -9,3 +9,12 @@
 h1{
     align-items: center;
 }
+
+.samples{
+    background-color: burlywood;
+}
+
+.sample2{
+    background-color: crimson;
+    margin-bottom: 5px;
+}
